@@ -1,0 +1,25 @@
+{
+  "name": "freebot",
+  "version": "0.1.0",
+  "description": "free bot discord.js 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dolaxom/discordjs-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "TheDolaxom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dolaxom/discordjs-bot/issues"
+  },
+  "homepage": "https://github.com/Dolaxom/discordjs-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
